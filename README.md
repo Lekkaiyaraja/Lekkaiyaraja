@@ -74,8 +74,8 @@
 ### 🚀 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - 📝 **[Title 1](https://medium.com/@lekkaiyarajaraj2020/difference-between-http-1-1-vs-http-2-fc04a1af88b0)**
-- 📝 **[Title 2](#)**
-- 📝 **[Title 3](#)**
+- 📝 **[Title 2](https://medium.com/@lekkaiyarajaraj2020/objects-in-javascript-e126334b241b)**
+- 📝 **[Title 3](https://medium.com/@lekkaiyarajaraj2020/document-vs-window-objects-580a9afaf62f)**
 <!-- BLOG-POST-LIST:END -->
 
 *Stay tuned for more updates!*
