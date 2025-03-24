@@ -73,7 +73,7 @@
 
 ### 🚀 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 📝 **[Title 1](#)**
+- 📝 **[Title 1](https://medium.com/@lekkaiyarajaraj2020/difference-between-http-1-1-vs-http-2-fc04a1af88b0)**
 - 📝 **[Title 2](#)**
 - 📝 **[Title 3](#)**
 <!-- BLOG-POST-LIST:END -->
